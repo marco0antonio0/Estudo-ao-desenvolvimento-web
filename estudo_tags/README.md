@@ -15,7 +15,7 @@
 
 3.  Como criar parágrafos
     -
-    ![img](/estudo_tags/image_readme/image_3.png)
+    ![img](/estudo_tags/image_readme/image_3.png)<br>
     <b>O que é < p > ?</b><br>
     O elemento HTML < p > representa um parágrafo. Em mídias visuais, parágrafos são representados como blocos indentados de texto com a primeira letra avançada e separados por linhas em branco. Já em HTML, parágrafos são usados para agrupar conteúdos relacionados de qualquer tipo, como imagens e campos de um formulário.
 
@@ -34,7 +34,7 @@
 
 5.  Como criar um < h >
     -
-    ![img](/estudo_tags/image_readme/image_5.png)
+    ![img](/estudo_tags/image_readme/image_5.png)<br>
     <b>O que é < hr >?</b><br>
     O elemento HTML < hr > representa uma quebra temática entre elementos de nível de parágrafo (por exemplo , uma mudança da cena de uma história, ou uma mudança de tema com uma seção). Nas versões anteriores do HTML, representava uma linha horizontal. Pode continuar sendo exibida como uma linha horizontal nos navegadores, mas agora está definida em termos semânticos, em vez de termos de apresentação.
 
