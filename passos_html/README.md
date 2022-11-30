@@ -29,6 +29,7 @@ Estudo ao desenvolvimento web - extensão - faculdade
     ![img](/passos_html/image_readme/image_9.png)
 
 ## Explicando o código
+> <a href="https://github.com/marco0antonio0/Estudo_dev_web/blob/6aa43a85e31d0e9dc08453439f6a5b8efc853773/meusite.html">Link para o codigo html</a>
 1.  Campo <body> </body> irá armazenar nossos códigos estéticos ao site contendo as devidas tags utilizadas.
 2.  site que utilizaremos para esta aula é<br>
 ![img](/passos_html/image_readme/image_12.png)
