@@ -3,8 +3,8 @@
 Estudo ao desenvolvimento web - extensão - Universidade Unama<br>
 Abordaremos conceitos ao desenvolvimento para criação de paginas web
 
-<a href="#" style="font-size: large;"> >>> Principios sobre tags</a> <br>
-<a href="#" style="font-size: large;"> >>> Passos para configuar o ambiente</a>
+<a href="https://github.com/marco0antonio0/Estudo_dev_web/tree/main/estudo_tags" style="font-size: large;"> >>> Principios sobre tags</a> <br>
+<a href="https://github.com/marco0antonio0/Estudo_dev_web/tree/main/passos_html" style="font-size: large;"> >>> Passos para configuar o ambiente</a>
 
 ### DISCENTES RESPONSÁVEIS:
 -   Marco Antonio
