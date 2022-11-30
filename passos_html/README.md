@@ -33,3 +33,34 @@ Estudo ao desenvolvimento web - extensão - faculdade
 1.  Campo <body> </body> irá armazenar nossos códigos estéticos ao site contendo as devidas tags utilizadas.
 2.  site que utilizaremos para esta aula é<br>
 ![img](/passos_html/image_readme/image_12.png)
+
+
+
+
+imagem 1
+https://github.com/marco0antonio0/Estudo_dev_web/blob/main/imgs/imagem1.png?raw=true
+
+imagem 2
+https://github.com/marco0antonio0/Estudo_dev_web/blob/main/imgs/imagem2.png?raw=true
+
+imagem 3
+https://github.com/marco0antonio0/Estudo_dev_web/blob/main/imgs/imagem3.png?raw=true
+
+imagem 4
+https://github.com/marco0antonio0/Estudo_dev_web/blob/main/imgs/imagem4.png?raw=true
+
+Código HTML utilizado nesta atividade:
+https://github.com/marco0antonio0/Estudo_dev_web/blob/d1150c8dfe4d16880ebbc4786dee80656ee3dfb4/meusite.html
+
+## Exercícios<br>
+>1.  mudar a imagem do site para a imagem 3
+
+>2.  mudar o título da logo para “Extensão html5”
+
+>3.  mudar a imagem do site para a imagem 4 
+
+>4.  muda o título da reportagem para “aprendi o desenvolvimento web”
+
+>5.  tamanho da fonte do parágrafo para 22pt
+
+>6.  inserir a imagem 1 e imagem 2 acima do título da reportagem 
