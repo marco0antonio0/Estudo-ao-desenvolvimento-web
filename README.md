@@ -1,45 +1,34 @@
 # Estudo_dev_web
 Estudo ao desenvolvimento web - extensão - faculdade
 
-# Estudo sobre Tags
-1. Como criar uma < div >
-    -   
- 
-    ![img](/image_readme/image_1.png)
+##   Criando meu primeiro site HTML
+<hr>
 
-    <b>O que é uma div ? </b><br>
-    O elemento de divisão **HTML < div > **é um container genérico para conteúdo de fluxo, que de certa forma não representa nada. Ele pode ser utilizado para agrupar elementos para fins de estilos (usando class ou id), ou porque eles compartilham valores de atributos, como lang. Ele deve ser utilizado somente quando não tiver outro elemento de semântica (tal como < article > ou < nav >).
+1. Configurar o ambiente para o desenvolvimento web html
+   -
+   ![img](/image_readme/image_6.png)
 
-2.  Como criar um título.
-    -   
-    ![img](/image_readme/image_2.png)<br>
-    <b>O que é um h1?</b><br>
-    Os elementos HTML < h1 > – < h6 > representam seis níveis de título de seção. < h1 > é o nível de seção mais alto e < h6 > é o mais baixo.
-
-3.  Como criar parágrafos
+2.  criando a pasta do ambiente no local desejado	
     -
-    ![img](/image_readme/image_3.png)
-    <b>O que é < p > ?</b><br>
-    O elemento HTML < p > representa um parágrafo. Em mídias visuais, parágrafos são representados como blocos indentados de texto com a primeira letra avançada e separados por linhas em branco. Já em HTML, parágrafos são usados para agrupar conteúdos relacionados de qualquer tipo, como imagens e campos de um formulário.
-
-4.  Como colocar uma imagem
-    -   
-    ![img](/image_readme/image_4.png)<br>
-    <b>O que é < img >?</b><br>
-
-    O elemento **HTML < img >**(ou HTML Image Element ) representa a inserção de imagem no documento.
-    
-    <b>alt</b><br>
-    Este atributo define um texto alternativo que descreve uma imagem. Os usuários irão ver o texto se a URL da imagem estiver incorreta, a imagem não está em um dos formatos suportados ou até a imagem ser baixada.
-
-    <b>src</b><br>
-    URL da imagem, este atributo é obrigatório para o <img>elemento. Em navegadores que suportam srcset , src é ignorado se este for fornecido.
-
-5.  Como criar um < h >
+    1.  clique com botão direito para abrir as opções
+    2.  selecione - novo > pasta
+    3.  clique em selecionar a pasta criada
+    ![img](/image_readme/image_7.png)
+3. clique com botão direito e selecione para criar um novo arquivo
     -
-    ![img](/image_readme/image_5.png)
-    <b>O que é < hr >?</b><br>
-    O elemento HTML < hr > representa uma quebra temática entre elementos de nível de parágrafo (por exemplo , uma mudança da cena de uma história, ou uma mudança de tema com uma seção). Nas versões anteriores do HTML, representava uma linha horizontal. Pode continuar sendo exibida como uma linha horizontal nos navegadores, mas agora está definida em termos semânticos, em vez de termos de apresentação.
+    ![img](/image_readme/image_11.png)
+4. crie o nome e termine com <b>.html</b>
+    -
+    ![img](/image_readme/image_10.png)
 
+5.  Ambiente configurado ,digite dentro do arquivo a palavra html
+    -
+    1. Selecione a opção html:5
+    ![img](/image_readme/image_8.png)
+    2. após selecionar a opção “html:5” a estrutura básica do HTML irá ser gerada automaticamente
+    ![img](/image_readme/image_9.png)
 
-
+## Explicando o código
+1. Campo <body> </body> irá armazenar nossos códigos estéticos ao site contendo as devidas tags utilizadas.
+2. site que utilizaremos para esta aula é
+![img](/image_readme/image_12.png)
