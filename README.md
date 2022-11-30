@@ -5,6 +5,7 @@ Abordaremos conceitos ao desenvolvimento para criação de paginas web
 ## Coheceremos a principio o necessario sobre<br>TAG em HTML 
 <hr>
 <a href="https://github.com/marco0antonio0/Estudo_dev_web/tree/main/estudo_tags" style="font-size: large;"> >>> Principios sobre tags</a> <br>
+
 <br>
 
 ## Adiante teremos passo a passo sobre configuração ate execução do HTML

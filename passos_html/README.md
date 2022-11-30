@@ -29,6 +29,6 @@ Estudo ao desenvolvimento web - extensão - faculdade
     ![img](/passos_html/image_readme/image_9.png)
 
 ## Explicando o código
-1. Campo <body> </body> irá armazenar nossos códigos estéticos ao site contendo as devidas tags utilizadas.
-2. site que utilizaremos para esta aula é
+1.  Campo <body> </body> irá armazenar nossos códigos estéticos ao site contendo as devidas tags utilizadas.
+2.  site que utilizaremos para esta aula é<br>
 ![img](/passos_html/image_readme/image_12.png)
