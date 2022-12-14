@@ -50,7 +50,7 @@ imagem 4
 https://github.com/marco0antonio0/Estudo_dev_web/blob/main/imgs/imagem4.png?raw=true
 
 Código HTML utilizado nesta atividade:
-https://github.com/marco0antonio0/Estudo_dev_web/blob/d1150c8dfe4d16880ebbc4786dee80656ee3dfb4/meusite.html
+https://github.com/marco0antonio0/Estudo_dev_web/blob/main/meusite.html
 
 ## Exercícios<br>
 >1.  mudar a imagem do site para a imagem 3
